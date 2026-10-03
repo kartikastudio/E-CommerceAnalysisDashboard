@@ -6,3 +6,5 @@ Keterangan:
 2. Format mata uang USD
 3. Proyek latihan
 4. Dataset termasuk (PDF, xlsx, CSV, pbix)
+
+Note: Proyek ini masih terus saya kembangkan, sehingga akan ada Updet terbaru jika semua sudah selesai. Namun, untuk sekarang saya hanya bisa meng-Upload file bentuk PDF. 
