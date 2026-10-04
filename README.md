@@ -1,10 +1,4 @@
 # E-Commerce Analysis Dashboard (Ms. Power BI)
-Dashboard ini adalah proyek pembelajaran mandiri ke-5 saya, yang bertujuan untuk mengasah kemampuan saya dalam bidang Data Analysis dan saya berperan sebagai seorang Data Analyst dengan menganalisis data E-Commerce sebanyak 51.304 transaksi pembelian.
+This dashboard is my fifth self-directed learning project. I created it to improve my skills in data analysis, using Microsoft Power BI as a data visualization tool. The **dataset used comes from Kaggle** and consists of 51,304 purchase transactions (51,304 rows), with the currency listed in USD ($). 
 
-Keterangan:
-1. Dataset dari Kaggle
-2. Format mata uang USD
-3. Proyek latihan
-4. Dataset termasuk (PDF, xlsx, CSV, pbix)
-
-Note: Proyek ini masih terus saya kembangkan, sehingga akan ada Updet terbaru jika semua sudah selesai. Namun, untuk sekarang saya hanya bisa meng-Upload file bentuk PDF. 
+The dashboard is titled **“E-Commerce Analysis Dashboard”** and its purpose is to analyze purchasing trends on online marketplaces in several countries, including the United States, Australia, France, Mexico, Germany, and others. It utilizes DAX (Data Analysis Expressions) to calculate the key performance indicators (KPIs) defined at the outset. 
